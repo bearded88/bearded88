@@ -5,5 +5,5 @@
 - 📫 How to reach m
 
 <!---
-bearded88/bearded88 is a ✨ special ✨ repository because its `README.md` (this file) appea
+bearded88/bearded88 is a ✨ special ✨ repository because its `README.md` (this file) appe
 
