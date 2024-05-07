@@ -5,5 +5,5 @@
 - 📫 How to reach m
 
 <!--
-bearded88/bearded8 ispecia repository because its `README.md` 
+bearded88/bearded8 ispec repository because its `README.md` 
 
