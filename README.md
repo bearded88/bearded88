@@ -5,5 +5,5 @@
 - 📫 How to reach m
 
 <!--
-bearded88/bearded is repository because its `README.md` 
+bearded88/bearded i repository because its `README.md` 
 
