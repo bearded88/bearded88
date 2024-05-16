@@ -5,5 +5,5 @@
 - 📫 How to reach m
 
 <!--
-bearded88/bearded repository becaus its `READMEmd
+bearded88/bearde repository becaus its `READMEmd
 
