@@ -5,5 +5,5 @@
 - 📫 How to reach m
 
 <!--
-bearded88/bearde repositor becau its `READMEmd
+bearded88/bearde reposito becau its `READMEmd
 
