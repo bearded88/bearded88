@@ -5,6 +5,6 @@
 - 📫 How to reach m
 
 <!--
-bearded88/bearde reposito bec its `READ
+bearded88/bearde reposito bec its `REA
 
 
